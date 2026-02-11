@@ -1,5 +1,0 @@
-# Nixpacks configuration
-# Specify Node.js 20 to meet Next.js 16 requirements (>= 20.9.0)
-
-[phases.setup]
-nixPkgs = ["nodejs_20", "npm-9_x"]
